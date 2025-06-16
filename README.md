@@ -10,7 +10,7 @@ I'm a **Software Engineer** specializing in crafting robust **Backend** systems 
 * **Currently Mastering:** Go
 * **Databases:** MongoDB, PostgreSQL,sqlite
 
-### 🧠 AI & Data Science COre tools:
+### 🧠 AI & Data Science Core tools:
 * **python**
 *  **pandas**
 *  **tensorflow**
