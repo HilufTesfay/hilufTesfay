@@ -6,13 +6,14 @@ I'm a **Software Engineer** specializing in crafting robust **Backend** systems 
 ---
 
 ### 🚀 My Core Technologies:
-* **Backend:** Node.js ( JS ), python
+* **Backend:** Node.js ( JS ), Python, Java
 * **Currently Mastering:** Go
-* **Databases:** MongoDB, PostgreSQL,sqlite
+* **Databases:** MongoDB, PostgreSQL, MySQL, SQLite
 
 ### 🧠 AI & Data Science Core tools:
 * **python**
 *  **pandas**
+*  **Numpy**
 *  **tensorflow**
 
 ### 🛡️ Cybersecurity:
