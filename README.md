@@ -14,7 +14,7 @@
 
 <!-- Mission Statement -->
 <p align="center">
-  <i>"Engineering scalable systems that bridge innovation with real-world impact through cutting-edge technology."</i>
+  <i>Engineering scalable systems that bridge innovation with real-world impact through cutting-edge technology.</i>
 </p>
 
 </div>
@@ -69,9 +69,9 @@
 
 ## 🌱 Currently Learning
 <div align="center">
-<div align="center">✅ Advanced ML/AI deployment and optimization </div>
-< align="center">✅ Defensive Security and secure software design</div>
-<div align="center">✅ Advanced Distributed System Design Concepts</div>
+<p align="center">✅ Advanced ML/AI deployment and optimization </p>
+<p align="center">✅ Defensive Security and secure software design</p>
+<p align="center">✅ Advanced Distributed System Design Concepts</p>
 </div>
 
 ## 📊 GitHub Analytics
