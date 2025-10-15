@@ -7,7 +7,8 @@
 
 ### 🚀 My Core Technologies:
 * **Programming language:** JavaScrpt, Python, Java
-* **Databases:** MongoDB, PostgreSQL, MySQL, SQLite, Neo4j
+* **Databases
+MongoDB | PostgreSQL | MySQL | SQLite
 
 ### frameworks:
 * **SpringBoot**
