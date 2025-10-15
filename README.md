@@ -1,7 +1,7 @@
 
-## 👋 Hi, I'm Hiluf Tesfay!
+## 👋 Hi there, I'm Hiluf Tesfay
 
-I'm a **Software Engineer** specializing in crafting robust **Distributed systems** and developing **Artificial Intelligence** solutions.
+💻 Software Engineer passionate about building scalable Distributed Systems and developing intelligent AI-driven solutions.
 
 ---
 
